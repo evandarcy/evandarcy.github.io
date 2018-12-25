@@ -1,4 +1,3 @@
-
 [
   {
     "name": "Afghanistan",
@@ -8426,7 +8425,7 @@
     "cioc": "CIV"
   },
   {
-    "name": "Iran (Islamic Republic of)",
+    "name": "Iran",
     "topLevelDomain": [
       ".ir"
     ],
@@ -14447,7 +14446,7 @@
     "cioc": "ROU"
   },
   {
-    "name": "Russian Federation",
+    "name": "Russia",
     "topLevelDomain": [
       ".ru"
     ],
@@ -15509,7 +15508,7 @@
     "cioc": "SEN"
   },
   {
-    "name": "Serbia",
+    "name": "Republic of Serbia",
     "topLevelDomain": [
       ".rs"
     ],
