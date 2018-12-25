@@ -1,6 +1,4 @@
-/* To Update: */
-/* curl https://restcountries.eu/rest/v2/all > <PATH_TO_FILE> */
-/* NOTE!! DON'T FORGET TO PUSH DATA TO GITHUB PAGES */
+
 [
   {
     "name": "Afghanistan",
