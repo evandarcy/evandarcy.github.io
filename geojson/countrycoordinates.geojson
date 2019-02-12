@@ -1,0 +1,3281 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  65, 33 ]
+    },
+    "properties": {
+    "Country":"Afghanistan",
+    "Alpha-2 code":" AF",
+    "Alpha-3 code":" AFG",
+    "Numeric code":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  20, 41 ]
+    },
+    "properties": {
+    "Country":"Albania",
+    "Alpha-2 code":" AL",
+    "Alpha-3 code":" ALB",
+    "Numeric code":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  3, 28 ]
+    },
+    "properties": {
+    "Country":"Algeria",
+    "Alpha-2 code":" DZ",
+    "Alpha-3 code":" DZA",
+    "Numeric code":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -170, -14.3333 ]
+    },
+    "properties": {
+    "Country":"American Samoa",
+    "Alpha-2 code":" AS",
+    "Alpha-3 code":" ASM",
+    "Numeric code":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  1.6, 42.5 ]
+    },
+    "properties": {
+    "Country":"Andorra",
+    "Alpha-2 code":" AD",
+    "Alpha-3 code":" AND",
+    "Numeric code":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  18.5, -12.5 ]
+    },
+    "properties": {
+    "Country":"Angola",
+    "Alpha-2 code":" AO",
+    "Alpha-3 code":" AGO",
+    "Numeric code":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -63.1667, 18.25 ]
+    },
+    "properties": {
+    "Country":"Anguilla",
+    "Alpha-2 code":" AI",
+    "Alpha-3 code":" AIA",
+    "Numeric code":660
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  0, -90 ]
+    },
+    "properties": {
+    "Country":"Antarctica",
+    "Alpha-2 code":" AQ",
+    "Alpha-3 code":" ATA",
+    "Numeric code":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -61.8, 17.05 ]
+    },
+    "properties": {
+    "Country":"Antigua and Barbuda",
+    "Alpha-2 code":" AG",
+    "Alpha-3 code":" ATG",
+    "Numeric code":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -64, -34 ]
+    },
+    "properties": {
+    "Country":"Argentina",
+    "Alpha-2 code":" AR",
+    "Alpha-3 code":" ARG",
+    "Numeric code":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  45, 40 ]
+    },
+    "properties": {
+    "Country":"Armenia",
+    "Alpha-2 code":" AM",
+    "Alpha-3 code":" ARM",
+    "Numeric code":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -69.9667, 12.5 ]
+    },
+    "properties": {
+    "Country":"Aruba",
+    "Alpha-2 code":" AW",
+    "Alpha-3 code":" ABW",
+    "Numeric code":533
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  133, -27 ]
+    },
+    "properties": {
+    "Country":"Australia",
+    "Alpha-2 code":" AU",
+    "Alpha-3 code":" AUS",
+    "Numeric code":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  13.3333, 47.3333 ]
+    },
+    "properties": {
+    "Country":"Austria",
+    "Alpha-2 code":" AT",
+    "Alpha-3 code":" AUT",
+    "Numeric code":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  47.5, 40.5 ]
+    },
+    "properties": {
+    "Country":"Azerbaijan",
+    "Alpha-2 code":" AZ",
+    "Alpha-3 code":" AZE",
+    "Numeric code":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -76, 24.25 ]
+    },
+    "properties": {
+    "Country":"Bahamas",
+    "Alpha-2 code":" BS",
+    "Alpha-3 code":" BHS",
+    "Numeric code":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  50.55, 26 ]
+    },
+    "properties": {
+    "Country":"Bahrain",
+    "Alpha-2 code":" BH",
+    "Alpha-3 code":" BHR",
+    "Numeric code":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  90, 24 ]
+    },
+    "properties": {
+    "Country":"Bangladesh",
+    "Alpha-2 code":" BD",
+    "Alpha-3 code":" BGD",
+    "Numeric code":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -59.5333, 13.1667 ]
+    },
+    "properties": {
+    "Country":"Barbados",
+    "Alpha-2 code":" BB",
+    "Alpha-3 code":" BRB",
+    "Numeric code":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  28, 53 ]
+    },
+    "properties": {
+    "Country":"Belarus",
+    "Alpha-2 code":" BY",
+    "Alpha-3 code":" BLR",
+    "Numeric code":112
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  4, 50.8333 ]
+    },
+    "properties": {
+    "Country":"Belgium",
+    "Alpha-2 code":" BE",
+    "Alpha-3 code":" BEL",
+    "Numeric code":56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -88.75, 17.25 ]
+    },
+    "properties": {
+    "Country":"Belize",
+    "Alpha-2 code":" BZ",
+    "Alpha-3 code":" BLZ",
+    "Numeric code":84
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  2.25, 9.5 ]
+    },
+    "properties": {
+    "Country":"Benin",
+    "Alpha-2 code":" BJ",
+    "Alpha-3 code":" BEN",
+    "Numeric code":204
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -64.75, 32.3333 ]
+    },
+    "properties": {
+    "Country":"Bermuda",
+    "Alpha-2 code":" BM",
+    "Alpha-3 code":" BMU",
+    "Numeric code":60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  90.5, 27.5 ]
+    },
+    "properties": {
+    "Country":"Bhutan",
+    "Alpha-2 code":" BT",
+    "Alpha-3 code":" BTN",
+    "Numeric code":64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -65, -17 ]
+    },
+    "properties": {
+    "Country":"Bolivia",
+    "Alpha-2 code":" BO",
+    "Alpha-3 code":" BOL",
+    "Numeric code":68
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  18, 44 ]
+    },
+    "properties": {
+    "Country":"Bosnia and Herzegovina",
+    "Alpha-2 code":" BA",
+    "Alpha-3 code":" BIH",
+    "Numeric code":70
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  24, -22 ]
+    },
+    "properties": {
+    "Country":"Botswana",
+    "Alpha-2 code":" BW",
+    "Alpha-3 code":" BWA",
+    "Numeric code":72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  3.4, -54.4333 ]
+    },
+    "properties": {
+    "Country":"Bouvet Island",
+    "Alpha-2 code":" BV",
+    "Alpha-3 code":" BVT",
+    "Numeric code":74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -55, -10 ]
+    },
+    "properties": {
+    "Country":"Brazil",
+    "Alpha-2 code":" BR",
+    "Alpha-3 code":" BRA",
+    "Numeric code":76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  71.5, -6 ]
+    },
+    "properties": {
+    "Country":"British Indian Ocean Territory",
+    "Alpha-2 code":" IO",
+    "Alpha-3 code":" IOT",
+    "Numeric code":86
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  114.6667, 4.5 ]
+    },
+    "properties": {
+    "Country":"Brunei Darussalam",
+    "Alpha-2 code":" BN",
+    "Alpha-3 code":" BRN",
+    "Numeric code":96
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  114.6667, 4.5 ]
+    },
+    "properties": {
+    "Country":"Brunei",
+    "Alpha-2 code":" BN",
+    "Alpha-3 code":" BRN",
+    "Numeric code":96
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  25, 43 ]
+    },
+    "properties": {
+    "Country":"Bulgaria",
+    "Alpha-2 code":" BG",
+    "Alpha-3 code":" BGR",
+    "Numeric code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -2, 13 ]
+    },
+    "properties": {
+    "Country":"Burkina Faso",
+    "Alpha-2 code":" BF",
+    "Alpha-3 code":" BFA",
+    "Numeric code":854
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  30, -3.5 ]
+    },
+    "properties": {
+    "Country":"Burundi",
+    "Alpha-2 code":" BI",
+    "Alpha-3 code":" BDI",
+    "Numeric code":108
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  105, 13 ]
+    },
+    "properties": {
+    "Country":"Cambodia",
+    "Alpha-2 code":" KH",
+    "Alpha-3 code":" KHM",
+    "Numeric code":116
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  12, 6 ]
+    },
+    "properties": {
+    "Country":"Cameroon",
+    "Alpha-2 code":" CM",
+    "Alpha-3 code":" CMR",
+    "Numeric code":120
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -95, 60 ]
+    },
+    "properties": {
+    "Country":"Canada",
+    "Alpha-2 code":" CA",
+    "Alpha-3 code":" CAN",
+    "Numeric code":124
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -24, 16 ]
+    },
+    "properties": {
+    "Country":"Cape Verde",
+    "Alpha-2 code":" CV",
+    "Alpha-3 code":" CPV",
+    "Numeric code":132
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -80.5, 19.5 ]
+    },
+    "properties": {
+    "Country":"Cayman Islands",
+    "Alpha-2 code":" KY",
+    "Alpha-3 code":" CYM",
+    "Numeric code":136
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  21, 7 ]
+    },
+    "properties": {
+    "Country":"Central African Republic",
+    "Alpha-2 code":" CF",
+    "Alpha-3 code":" CAF",
+    "Numeric code":140
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  19, 15 ]
+    },
+    "properties": {
+    "Country":"Chad",
+    "Alpha-2 code":" TD",
+    "Alpha-3 code":" TCD",
+    "Numeric code":148
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -71, -30 ]
+    },
+    "properties": {
+    "Country":"Chile",
+    "Alpha-2 code":" CL",
+    "Alpha-3 code":" CHL",
+    "Numeric code":152
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  105, 35 ]
+    },
+    "properties": {
+    "Country":"China",
+    "Alpha-2 code":" CN",
+    "Alpha-3 code":" CHN",
+    "Numeric code":156
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  105.6667, -10.5 ]
+    },
+    "properties": {
+    "Country":"Christmas Island",
+    "Alpha-2 code":" CX",
+    "Alpha-3 code":" CXR",
+    "Numeric code":162
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  96.8333, -12.5 ]
+    },
+    "properties": {
+    "Country":"Cocos (Keeling) Islands",
+    "Alpha-2 code":" CC",
+    "Alpha-3 code":" CCK",
+    "Numeric code":166
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -72, 4 ]
+    },
+    "properties": {
+    "Country":"Colombia",
+    "Alpha-2 code":" CO",
+    "Alpha-3 code":" COL",
+    "Numeric code":170
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  44.25, -12.1667 ]
+    },
+    "properties": {
+    "Country":"Comoros",
+    "Alpha-2 code":" KM",
+    "Alpha-3 code":" COM",
+    "Numeric code":174
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  15, -1 ]
+    },
+    "properties": {
+    "Country":"Congo",
+    "Alpha-2 code":" CG",
+    "Alpha-3 code":" COG",
+    "Numeric code":178
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  25, 0 ]
+    },
+    "properties": {
+    "Country":"Democratic Republic of the Congo",
+    "Alpha-2 code":" CD",
+    "Alpha-3 code":" COD",
+    "Numeric code":180
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -159.7667, -21.2333 ]
+    },
+    "properties": {
+    "Country":"Cook Islands",
+    "Alpha-2 code":" CK",
+    "Alpha-3 code":" COK",
+    "Numeric code":184
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -84, 10 ]
+    },
+    "properties": {
+    "Country":"Costa Rica",
+    "Alpha-2 code":" CR",
+    "Alpha-3 code":" CRI",
+    "Numeric code":188
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -5, 8 ]
+    },
+    "properties": {
+    "Country":"Côte d'Ivoire",
+    "Alpha-2 code":" CI",
+    "Alpha-3 code":" CIV",
+    "Numeric code":384
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -5, 8 ]
+    },
+    "properties": {
+    "Country":"Ivory Coast",
+    "Alpha-2 code":" CI",
+    "Alpha-3 code":" CIV",
+    "Numeric code":384
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  15.5, 45.1667 ]
+    },
+    "properties": {
+    "Country":"Croatia",
+    "Alpha-2 code":" HR",
+    "Alpha-3 code":" HRV",
+    "Numeric code":191
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -80, 21.5 ]
+    },
+    "properties": {
+    "Country":"Cuba",
+    "Alpha-2 code":" CU",
+    "Alpha-3 code":" CUB",
+    "Numeric code":192
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  33, 35 ]
+    },
+    "properties": {
+    "Country":"Cyprus",
+    "Alpha-2 code":" CY",
+    "Alpha-3 code":" CYP",
+    "Numeric code":196
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  15.5, 49.75 ]
+    },
+    "properties": {
+    "Country":"Czech Republic",
+    "Alpha-2 code":" CZ",
+    "Alpha-3 code":" CZE",
+    "Numeric code":203
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  10, 56 ]
+    },
+    "properties": {
+    "Country":"Denmark",
+    "Alpha-2 code":" DK",
+    "Alpha-3 code":" DNK",
+    "Numeric code":208
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  43, 11.5 ]
+    },
+    "properties": {
+    "Country":"Djibouti",
+    "Alpha-2 code":" DJ",
+    "Alpha-3 code":" DJI",
+    "Numeric code":262
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -61.3333, 15.4167 ]
+    },
+    "properties": {
+    "Country":"Dominica",
+    "Alpha-2 code":" DM",
+    "Alpha-3 code":" DMA",
+    "Numeric code":212
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -70.6667, 19 ]
+    },
+    "properties": {
+    "Country":"Dominican Republic",
+    "Alpha-2 code":" DO",
+    "Alpha-3 code":" DOM",
+    "Numeric code":214
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -77.5, -2 ]
+    },
+    "properties": {
+    "Country":"Ecuador",
+    "Alpha-2 code":" EC",
+    "Alpha-3 code":" ECU",
+    "Numeric code":218
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  30, 27 ]
+    },
+    "properties": {
+    "Country":"Egypt",
+    "Alpha-2 code":" EG",
+    "Alpha-3 code":" EGY",
+    "Numeric code":818
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -88.9167, 13.8333 ]
+    },
+    "properties": {
+    "Country":"El Salvador",
+    "Alpha-2 code":" SV",
+    "Alpha-3 code":" SLV",
+    "Numeric code":222
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  10, 2 ]
+    },
+    "properties": {
+    "Country":"Equatorial Guinea",
+    "Alpha-2 code":" GQ",
+    "Alpha-3 code":" GNQ",
+    "Numeric code":226
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  39, 15 ]
+    },
+    "properties": {
+    "Country":"Eritrea",
+    "Alpha-2 code":" ER",
+    "Alpha-3 code":" ERI",
+    "Numeric code":232
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  26, 59 ]
+    },
+    "properties": {
+    "Country":"Estonia",
+    "Alpha-2 code":" EE",
+    "Alpha-3 code":" EST",
+    "Numeric code":233
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  38, 8 ]
+    },
+    "properties": {
+    "Country":"Ethiopia",
+    "Alpha-2 code":" ET",
+    "Alpha-3 code":" ETH",
+    "Numeric code":231
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -59, -51.75 ]
+    },
+    "properties": {
+    "Country":"Falkland Islands (Malvinas)",
+    "Alpha-2 code":" FK",
+    "Alpha-3 code":" FLK",
+    "Numeric code":238
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -7, 62 ]
+    },
+    "properties": {
+    "Country":"Faroe Islands",
+    "Alpha-2 code":" FO",
+    "Alpha-3 code":" FRO",
+    "Numeric code":234
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  175, -18 ]
+    },
+    "properties": {
+    "Country":"Fiji",
+    "Alpha-2 code":" FJ",
+    "Alpha-3 code":" FJI",
+    "Numeric code":242
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  26, 64 ]
+    },
+    "properties": {
+    "Country":"Finland",
+    "Alpha-2 code":" FI",
+    "Alpha-3 code":" FIN",
+    "Numeric code":246
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  2, 46 ]
+    },
+    "properties": {
+    "Country":"France",
+    "Alpha-2 code":" FR",
+    "Alpha-3 code":" FRA",
+    "Numeric code":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -53, 4 ]
+    },
+    "properties": {
+    "Country":"French Guiana",
+    "Alpha-2 code":" GF",
+    "Alpha-3 code":" GUF",
+    "Numeric code":254
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -140, -15 ]
+    },
+    "properties": {
+    "Country":"French Polynesia",
+    "Alpha-2 code":" PF",
+    "Alpha-3 code":" PYF",
+    "Numeric code":258
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  67, -43 ]
+    },
+    "properties": {
+    "Country":"French Southern Territories",
+    "Alpha-2 code":" TF",
+    "Alpha-3 code":" ATF",
+    "Numeric code":260
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  11.75, -1 ]
+    },
+    "properties": {
+    "Country":"Gabon",
+    "Alpha-2 code":" GA",
+    "Alpha-3 code":" GAB",
+    "Numeric code":266
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -16.5667, 13.4667 ]
+    },
+    "properties": {
+    "Country":"Gambia",
+    "Alpha-2 code":" GM",
+    "Alpha-3 code":" GMB",
+    "Numeric code":270
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  43.5, 42 ]
+    },
+    "properties": {
+    "Country":"Georgia",
+    "Alpha-2 code":" GE",
+    "Alpha-3 code":" GEO",
+    "Numeric code":268
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  9, 51 ]
+    },
+    "properties": {
+    "Country":"Germany",
+    "Alpha-2 code":" DE",
+    "Alpha-3 code":" DEU",
+    "Numeric code":276
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -2, 8 ]
+    },
+    "properties": {
+    "Country":"Ghana",
+    "Alpha-2 code":" GH",
+    "Alpha-3 code":" GHA",
+    "Numeric code":288
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -5.3667, 36.1833 ]
+    },
+    "properties": {
+    "Country":"Gibraltar",
+    "Alpha-2 code":" GI",
+    "Alpha-3 code":" GIB",
+    "Numeric code":292
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  22, 39 ]
+    },
+    "properties": {
+    "Country":"Greece",
+    "Alpha-2 code":" GR",
+    "Alpha-3 code":" GRC",
+    "Numeric code":300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -40, 72 ]
+    },
+    "properties": {
+    "Country":"Greenland",
+    "Alpha-2 code":" GL",
+    "Alpha-3 code":" GRL",
+    "Numeric code":304
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -61.6667, 12.1167 ]
+    },
+    "properties": {
+    "Country":"Grenada",
+    "Alpha-2 code":" GD",
+    "Alpha-3 code":" GRD",
+    "Numeric code":308
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -61.5833, 16.25 ]
+    },
+    "properties": {
+    "Country":"Guadeloupe",
+    "Alpha-2 code":" GP",
+    "Alpha-3 code":" GLP",
+    "Numeric code":312
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  144.7833, 13.4667 ]
+    },
+    "properties": {
+    "Country":"Guam",
+    "Alpha-2 code":" GU",
+    "Alpha-3 code":" GUM",
+    "Numeric code":316
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -90.25, 15.5 ]
+    },
+    "properties": {
+    "Country":"Guatemala",
+    "Alpha-2 code":" GT",
+    "Alpha-3 code":" GTM",
+    "Numeric code":320
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -2.56, 49.5 ]
+    },
+    "properties": {
+    "Country":"Guernsey",
+    "Alpha-2 code":" GG",
+    "Alpha-3 code":" GGY",
+    "Numeric code":831
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -10, 11 ]
+    },
+    "properties": {
+    "Country":"Guinea",
+    "Alpha-2 code":" GN",
+    "Alpha-3 code":" GIN",
+    "Numeric code":324
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -15, 12 ]
+    },
+    "properties": {
+    "Country":"Guinea-Bissau",
+    "Alpha-2 code":" GW",
+    "Alpha-3 code":" GNB",
+    "Numeric code":624
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -59, 5 ]
+    },
+    "properties": {
+    "Country":"Guyana",
+    "Alpha-2 code":" GY",
+    "Alpha-3 code":" GUY",
+    "Numeric code":328
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -72.4167, 19 ]
+    },
+    "properties": {
+    "Country":"Haiti",
+    "Alpha-2 code":" HT",
+    "Alpha-3 code":" HTI",
+    "Numeric code":332
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  72.5167, -53.1 ]
+    },
+    "properties": {
+    "Country":"Heard Island and McDonald Islands",
+    "Alpha-2 code":" HM",
+    "Alpha-3 code":" HMD",
+    "Numeric code":334
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  12.45, 41.9 ]
+    },
+    "properties": {
+    "Country":"Holy See (Vatican City State)",
+    "Alpha-2 code":" VA",
+    "Alpha-3 code":" VAT",
+    "Numeric code":336
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -86.5, 15 ]
+    },
+    "properties": {
+    "Country":"Honduras",
+    "Alpha-2 code":" HN",
+    "Alpha-3 code":" HND",
+    "Numeric code":340
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  114.1667, 22.25 ]
+    },
+    "properties": {
+    "Country":"Hong Kong",
+    "Alpha-2 code":" HK",
+    "Alpha-3 code":" HKG",
+    "Numeric code":344
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  20, 47 ]
+    },
+    "properties": {
+    "Country":"Hungary",
+    "Alpha-2 code":" HU",
+    "Alpha-3 code":" HUN",
+    "Numeric code":348
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -18, 65 ]
+    },
+    "properties": {
+    "Country":"Iceland",
+    "Alpha-2 code":" IS",
+    "Alpha-3 code":" ISL",
+    "Numeric code":352
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  77, 20 ]
+    },
+    "properties": {
+    "Country":"India",
+    "Alpha-2 code":" IN",
+    "Alpha-3 code":" IND",
+    "Numeric code":356
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  120, -5 ]
+    },
+    "properties": {
+    "Country":"Indonesia",
+    "Alpha-2 code":" ID",
+    "Alpha-3 code":" IDN",
+    "Numeric code":360
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  53, 32 ]
+    },
+    "properties": {
+    "Country":"Iran",
+    "Alpha-2 code":" IR",
+    "Alpha-3 code":" IRN",
+    "Numeric code":364
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  44, 33 ]
+    },
+    "properties": {
+    "Country":"Iraq",
+    "Alpha-2 code":" IQ",
+    "Alpha-3 code":" IRQ",
+    "Numeric code":368
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -8, 53 ]
+    },
+    "properties": {
+    "Country":"Ireland",
+    "Alpha-2 code":" IE",
+    "Alpha-3 code":" IRL",
+    "Numeric code":372
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -4.55, 54.23 ]
+    },
+    "properties": {
+    "Country":"Isle of Man",
+    "Alpha-2 code":" IM",
+    "Alpha-3 code":" IMN",
+    "Numeric code":833
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  34.75, 31.5 ]
+    },
+    "properties": {
+    "Country":"Israel",
+    "Alpha-2 code":" IL",
+    "Alpha-3 code":" ISR",
+    "Numeric code":376
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  12.8333, 42.8333 ]
+    },
+    "properties": {
+    "Country":"Italy",
+    "Alpha-2 code":" IT",
+    "Alpha-3 code":" ITA",
+    "Numeric code":380
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -77.5, 18.25 ]
+    },
+    "properties": {
+    "Country":"Jamaica",
+    "Alpha-2 code":" JM",
+    "Alpha-3 code":" JAM",
+    "Numeric code":388
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  138, 36 ]
+    },
+    "properties": {
+    "Country":"Japan",
+    "Alpha-2 code":" JP",
+    "Alpha-3 code":" JPN",
+    "Numeric code":392
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -2.13, 49.21 ]
+    },
+    "properties": {
+    "Country":"Jersey",
+    "Alpha-2 code":" JE",
+    "Alpha-3 code":" JEY",
+    "Numeric code":832
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  36, 31 ]
+    },
+    "properties": {
+    "Country":"Jordan",
+    "Alpha-2 code":" JO",
+    "Alpha-3 code":" JOR",
+    "Numeric code":400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  68, 48 ]
+    },
+    "properties": {
+    "Country":"Kazakhstan",
+    "Alpha-2 code":" KZ",
+    "Alpha-3 code":" KAZ",
+    "Numeric code":398
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  38, 1 ]
+    },
+    "properties": {
+    "Country":"Kenya",
+    "Alpha-2 code":" KE",
+    "Alpha-3 code":" KEN",
+    "Numeric code":404
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  173, 1.4167 ]
+    },
+    "properties": {
+    "Country":"Kiribati",
+    "Alpha-2 code":" KI",
+    "Alpha-3 code":" KIR",
+    "Numeric code":296
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  127, 40 ]
+    },
+    "properties": {
+    "Country":"North Korea",
+    "Alpha-2 code":" KP",
+    "Alpha-3 code":" PRK",
+    "Numeric code":408
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  127.5, 37 ]
+    },
+    "properties": {
+    "Country":"South Korea",
+    "Alpha-2 code":" KR",
+    "Alpha-3 code":" KOR",
+    "Numeric code":410
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  47.6581, 29.3375 ]
+    },
+    "properties": {
+    "Country":"Kuwait",
+    "Alpha-2 code":" KW",
+    "Alpha-3 code":" KWT",
+    "Numeric code":414
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  75, 41 ]
+    },
+    "properties": {
+    "Country":"Kyrgyzstan",
+    "Alpha-2 code":" KG",
+    "Alpha-3 code":" KGZ",
+    "Numeric code":417
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  105, 18 ]
+    },
+    "properties": {
+    "Country":"Lao People's Democratic Republic",
+    "Alpha-2 code":" LA",
+    "Alpha-3 code":" LAO",
+    "Numeric code":418
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  25, 57 ]
+    },
+    "properties": {
+    "Country":"Latvia",
+    "Alpha-2 code":" LV",
+    "Alpha-3 code":" LVA",
+    "Numeric code":428
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  35.8333, 33.8333 ]
+    },
+    "properties": {
+    "Country":"Lebanon",
+    "Alpha-2 code":" LB",
+    "Alpha-3 code":" LBN",
+    "Numeric code":422
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  28.5, -29.5 ]
+    },
+    "properties": {
+    "Country":"Lesotho",
+    "Alpha-2 code":" LS",
+    "Alpha-3 code":" LSO",
+    "Numeric code":426
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -9.5, 6.5 ]
+    },
+    "properties": {
+    "Country":"Liberia",
+    "Alpha-2 code":" LR",
+    "Alpha-3 code":" LBR",
+    "Numeric code":430
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  17, 25 ]
+    },
+    "properties": {
+    "Country":"Libyan Arab Jamahiriya",
+    "Alpha-2 code":" LY",
+    "Alpha-3 code":" LBY",
+    "Numeric code":434
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  17, 25 ]
+    },
+    "properties": {
+    "Country":"Libya",
+    "Alpha-2 code":" LY",
+    "Alpha-3 code":" LBY",
+    "Numeric code":434
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  9.5333, 47.1667 ]
+    },
+    "properties": {
+    "Country":"Liechtenstein",
+    "Alpha-2 code":" LI",
+    "Alpha-3 code":" LIE",
+    "Numeric code":438
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  24, 56 ]
+    },
+    "properties": {
+    "Country":"Lithuania",
+    "Alpha-2 code":" LT",
+    "Alpha-3 code":" LTU",
+    "Numeric code":440
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  6.1667, 49.75 ]
+    },
+    "properties": {
+    "Country":"Luxembourg",
+    "Alpha-2 code":" LU",
+    "Alpha-3 code":" LUX",
+    "Numeric code":442
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  113.55, 22.1667 ]
+    },
+    "properties": {
+    "Country":"Macao",
+    "Alpha-2 code":" MO",
+    "Alpha-3 code":" MAC",
+    "Numeric code":446
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  22, 41.8333 ]
+    },
+    "properties": {
+    "Country":"Macedonia",
+    "Alpha-2 code":" MK",
+    "Alpha-3 code":" MKD",
+    "Numeric code":807
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  47, -20 ]
+    },
+    "properties": {
+    "Country":"Madagascar",
+    "Alpha-2 code":" MG",
+    "Alpha-3 code":" MDG",
+    "Numeric code":450
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  34, -13.5 ]
+    },
+    "properties": {
+    "Country":"Malawi",
+    "Alpha-2 code":" MW",
+    "Alpha-3 code":" MWI",
+    "Numeric code":454
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  112.5, 2.5 ]
+    },
+    "properties": {
+    "Country":"Malaysia",
+    "Alpha-2 code":" MY",
+    "Alpha-3 code":" MYS",
+    "Numeric code":458
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  73, 3.25 ]
+    },
+    "properties": {
+    "Country":"Maldives",
+    "Alpha-2 code":" MV",
+    "Alpha-3 code":" MDV",
+    "Numeric code":462
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -4, 17 ]
+    },
+    "properties": {
+    "Country":"Mali",
+    "Alpha-2 code":" ML",
+    "Alpha-3 code":" MLI",
+    "Numeric code":466
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  14.5833, 35.8333 ]
+    },
+    "properties": {
+    "Country":"Malta",
+    "Alpha-2 code":" MT",
+    "Alpha-3 code":" MLT",
+    "Numeric code":470
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  168, 9 ]
+    },
+    "properties": {
+    "Country":"Marshall Islands",
+    "Alpha-2 code":" MH",
+    "Alpha-3 code":" MHL",
+    "Numeric code":584
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -61, 14.6667 ]
+    },
+    "properties": {
+    "Country":"Martinique",
+    "Alpha-2 code":" MQ",
+    "Alpha-3 code":" MTQ",
+    "Numeric code":474
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -12, 20 ]
+    },
+    "properties": {
+    "Country":"Mauritania",
+    "Alpha-2 code":" MR",
+    "Alpha-3 code":" MRT",
+    "Numeric code":478
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  57.55, -20.2833 ]
+    },
+    "properties": {
+    "Country":"Mauritius",
+    "Alpha-2 code":" MU",
+    "Alpha-3 code":" MUS",
+    "Numeric code":480
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  45.1667, -12.8333 ]
+    },
+    "properties": {
+    "Country":"Mayotte",
+    "Alpha-2 code":" YT",
+    "Alpha-3 code":" MYT",
+    "Numeric code":175
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -102, 23 ]
+    },
+    "properties": {
+    "Country":"Mexico",
+    "Alpha-2 code":" MX",
+    "Alpha-3 code":" MEX",
+    "Numeric code":484
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  158.25, 6.9167 ]
+    },
+    "properties": {
+    "Country":"Federated States of Micronesia",
+    "Alpha-2 code":" FM",
+    "Alpha-3 code":" FSM",
+    "Numeric code":583
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  29, 47 ]
+    },
+    "properties": {
+    "Country":"Moldova",
+    "Alpha-2 code":" MD",
+    "Alpha-3 code":" MDA",
+    "Numeric code":498
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  7.4, 43.7333 ]
+    },
+    "properties": {
+    "Country":"Monaco",
+    "Alpha-2 code":" MC",
+    "Alpha-3 code":" MCO",
+    "Numeric code":492
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  105, 46 ]
+    },
+    "properties": {
+    "Country":"Mongolia",
+    "Alpha-2 code":" MN",
+    "Alpha-3 code":" MNG",
+    "Numeric code":496
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  19, 42 ]
+    },
+    "properties": {
+    "Country":"Montenegro",
+    "Alpha-2 code":" ME",
+    "Alpha-3 code":" MNE",
+    "Numeric code":499
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -62.2, 16.75 ]
+    },
+    "properties": {
+    "Country":"Montserrat",
+    "Alpha-2 code":" MS",
+    "Alpha-3 code":" MSR",
+    "Numeric code":500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -5, 32 ]
+    },
+    "properties": {
+    "Country":"Morocco",
+    "Alpha-2 code":" MA",
+    "Alpha-3 code":" MAR",
+    "Numeric code":504
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  35, -18.25 ]
+    },
+    "properties": {
+    "Country":"Mozambique",
+    "Alpha-2 code":" MZ",
+    "Alpha-3 code":" MOZ",
+    "Numeric code":508
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  98, 22 ]
+    },
+    "properties": {
+    "Country":"Myanmar",
+    "Alpha-2 code":" MM",
+    "Alpha-3 code":" MMR",
+    "Numeric code":104
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  98, 22 ]
+    },
+    "properties": {
+    "Country":"Burma",
+    "Alpha-2 code":" MM",
+    "Alpha-3 code":" MMR",
+    "Numeric code":104
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  17, -22 ]
+    },
+    "properties": {
+    "Country":"Namibia",
+    "Alpha-2 code":" NA",
+    "Alpha-3 code":" NAM",
+    "Numeric code":516
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  166.9167, -0.5333 ]
+    },
+    "properties": {
+    "Country":"Nauru",
+    "Alpha-2 code":" NR",
+    "Alpha-3 code":" NRU",
+    "Numeric code":520
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  84, 28 ]
+    },
+    "properties": {
+    "Country":"Nepal",
+    "Alpha-2 code":" NP",
+    "Alpha-3 code":" NPL",
+    "Numeric code":524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  5.75, 52.5 ]
+    },
+    "properties": {
+    "Country":"Netherlands",
+    "Alpha-2 code":" NL",
+    "Alpha-3 code":" NLD",
+    "Numeric code":528
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -68.75, 12.25 ]
+    },
+    "properties": {
+    "Country":"Netherlands Antilles",
+    "Alpha-2 code":" AN",
+    "Alpha-3 code":" ANT",
+    "Numeric code":530
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  165.5, -21.5 ]
+    },
+    "properties": {
+    "Country":"New Caledonia",
+    "Alpha-2 code":" NC",
+    "Alpha-3 code":" NCL",
+    "Numeric code":540
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  174, -41 ]
+    },
+    "properties": {
+    "Country":"New Zealand",
+    "Alpha-2 code":" NZ",
+    "Alpha-3 code":" NZL",
+    "Numeric code":554
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -85, 13 ]
+    },
+    "properties": {
+    "Country":"Nicaragua",
+    "Alpha-2 code":" NI",
+    "Alpha-3 code":" NIC",
+    "Numeric code":558
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  8, 16 ]
+    },
+    "properties": {
+    "Country":"Niger",
+    "Alpha-2 code":" NE",
+    "Alpha-3 code":" NER",
+    "Numeric code":562
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  8, 10 ]
+    },
+    "properties": {
+    "Country":"Nigeria",
+    "Alpha-2 code":" NG",
+    "Alpha-3 code":" NGA",
+    "Numeric code":566
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -169.8667, -19.0333 ]
+    },
+    "properties": {
+    "Country":"Niue",
+    "Alpha-2 code":" NU",
+    "Alpha-3 code":" NIU",
+    "Numeric code":570
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  167.95, -29.0333 ]
+    },
+    "properties": {
+    "Country":"Norfolk Island",
+    "Alpha-2 code":" NF",
+    "Alpha-3 code":" NFK",
+    "Numeric code":574
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  145.75, 15.2 ]
+    },
+    "properties": {
+    "Country":"Northern Mariana Islands",
+    "Alpha-2 code":" MP",
+    "Alpha-3 code":" MNP",
+    "Numeric code":580
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  10, 62 ]
+    },
+    "properties": {
+    "Country":"Norway",
+    "Alpha-2 code":" NO",
+    "Alpha-3 code":" NOR",
+    "Numeric code":578
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  57, 21 ]
+    },
+    "properties": {
+    "Country":"Oman",
+    "Alpha-2 code":" OM",
+    "Alpha-3 code":" OMN",
+    "Numeric code":512
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  70, 30 ]
+    },
+    "properties": {
+    "Country":"Pakistan",
+    "Alpha-2 code":" PK",
+    "Alpha-3 code":" PAK",
+    "Numeric code":586
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  134.5, 7.5 ]
+    },
+    "properties": {
+    "Country":"Palau",
+    "Alpha-2 code":" PW",
+    "Alpha-3 code":" PLW",
+    "Numeric code":585
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  35.25, 32 ]
+    },
+    "properties": {
+    "Country":"Occupied Palestinian Territory",
+    "Alpha-2 code":" PS",
+    "Alpha-3 code":" PSE",
+    "Numeric code":275
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -80, 9 ]
+    },
+    "properties": {
+    "Country":"Panama",
+    "Alpha-2 code":" PA",
+    "Alpha-3 code":" PAN",
+    "Numeric code":591
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  147, -6 ]
+    },
+    "properties": {
+    "Country":"Papua New Guinea",
+    "Alpha-2 code":" PG",
+    "Alpha-3 code":" PNG",
+    "Numeric code":598
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -58, -23 ]
+    },
+    "properties": {
+    "Country":"Paraguay",
+    "Alpha-2 code":" PY",
+    "Alpha-3 code":" PRY",
+    "Numeric code":600
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -76, -10 ]
+    },
+    "properties": {
+    "Country":"Peru",
+    "Alpha-2 code":" PE",
+    "Alpha-3 code":" PER",
+    "Numeric code":604
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  122, 13 ]
+    },
+    "properties": {
+    "Country":"Philippines",
+    "Alpha-2 code":" PH",
+    "Alpha-3 code":" PHL",
+    "Numeric code":608
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -127.4, -24.7 ]
+    },
+    "properties": {
+    "Country":"Pitcairn",
+    "Alpha-2 code":" PN",
+    "Alpha-3 code":" PCN",
+    "Numeric code":612
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  20, 52 ]
+    },
+    "properties": {
+    "Country":"Poland",
+    "Alpha-2 code":" PL",
+    "Alpha-3 code":" POL",
+    "Numeric code":616
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -8, 39.5 ]
+    },
+    "properties": {
+    "Country":"Portugal",
+    "Alpha-2 code":" PT",
+    "Alpha-3 code":" PRT",
+    "Numeric code":620
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -66.5, 18.25 ]
+    },
+    "properties": {
+    "Country":"Puerto Rico",
+    "Alpha-2 code":" PR",
+    "Alpha-3 code":" PRI",
+    "Numeric code":630
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  51.25, 25.5 ]
+    },
+    "properties": {
+    "Country":"Qatar",
+    "Alpha-2 code":" QA",
+    "Alpha-3 code":" QAT",
+    "Numeric code":634
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  55.6, -21.1 ]
+    },
+    "properties": {
+    "Country":"Réunion",
+    "Alpha-2 code":" RE",
+    "Alpha-3 code":" REU",
+    "Numeric code":638
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  25, 46 ]
+    },
+    "properties": {
+    "Country":"Romania",
+    "Alpha-2 code":" RO",
+    "Alpha-3 code":" ROU",
+    "Numeric code":642
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  100, 60 ]
+    },
+    "properties": {
+    "Country":"Russian Federation",
+    "Alpha-2 code":" RU",
+    "Alpha-3 code":" RUS",
+    "Numeric code":643
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  100, 60 ]
+    },
+    "properties": {
+    "Country":"Russia",
+    "Alpha-2 code":" RU",
+    "Alpha-3 code":" RUS",
+    "Numeric code":643
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  30, -2 ]
+    },
+    "properties": {
+    "Country":"Rwanda",
+    "Alpha-2 code":" RW",
+    "Alpha-3 code":" RWA",
+    "Numeric code":646
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -5.7, -15.9333 ]
+    },
+    "properties": {
+    "Country":"Saint Helena Ascension and Tristan da Cunha",
+    "Alpha-2 code":" SH",
+    "Alpha-3 code":" SHN",
+    "Numeric code":654
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -62.75, 17.3333 ]
+    },
+    "properties": {
+    "Country":"Saint Kitts and Nevis",
+    "Alpha-2 code":" KN",
+    "Alpha-3 code":" KNA",
+    "Numeric code":659
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -61.1333, 13.8833 ]
+    },
+    "properties": {
+    "Country":"Saint Lucia",
+    "Alpha-2 code":" LC",
+    "Alpha-3 code":" LCA",
+    "Numeric code":662
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -56.3333, 46.8333 ]
+    },
+    "properties": {
+    "Country":"Saint Pierre and Miquelon",
+    "Alpha-2 code":" PM",
+    "Alpha-3 code":" SPM",
+    "Numeric code":666
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -61.2, 13.25 ]
+    },
+    "properties": {
+    "Country":"Saint Vincent and the Grenadines",
+    "Alpha-2 code":" VC",
+    "Alpha-3 code":" VCT",
+    "Numeric code":670
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -61.2, 13.25 ]
+    },
+    "properties": {
+    "Country":"Saint Vincent & the Grenadines",
+    "Alpha-2 code":" VC",
+    "Alpha-3 code":" VCT",
+    "Numeric code":670
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -61.2, 13.25 ]
+    },
+    "properties": {
+    "Country":"St. Vincent and the Grenadines",
+    "Alpha-2 code":" VC",
+    "Alpha-3 code":" VCT",
+    "Numeric code":670
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -172.3333, -13.5833 ]
+    },
+    "properties": {
+    "Country":"Samoa",
+    "Alpha-2 code":" WS",
+    "Alpha-3 code":" WSM",
+    "Numeric code":882
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  12.4167, 43.7667 ]
+    },
+    "properties": {
+    "Country":"San Marino",
+    "Alpha-2 code":" SM",
+    "Alpha-3 code":" SMR",
+    "Numeric code":674
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  7, 1 ]
+    },
+    "properties": {
+    "Country":"Sao Tome and Principe",
+    "Alpha-2 code":" ST",
+    "Alpha-3 code":" STP",
+    "Numeric code":678
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  45, 25 ]
+    },
+    "properties": {
+    "Country":"Saudi Arabia",
+    "Alpha-2 code":" SA",
+    "Alpha-3 code":" SAU",
+    "Numeric code":682
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -14, 14 ]
+    },
+    "properties": {
+    "Country":"Senegal",
+    "Alpha-2 code":" SN",
+    "Alpha-3 code":" SEN",
+    "Numeric code":686
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  21, 44 ]
+    },
+    "properties": {
+    "Country":"Serbia",
+    "Alpha-2 code":" RS",
+    "Alpha-3 code":" SRB",
+    "Numeric code":688
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  55.6667, -4.5833 ]
+    },
+    "properties": {
+    "Country":"Seychelles",
+    "Alpha-2 code":" SC",
+    "Alpha-3 code":" SYC",
+    "Numeric code":690
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -11.5, 8.5 ]
+    },
+    "properties": {
+    "Country":"Sierra Leone",
+    "Alpha-2 code":" SL",
+    "Alpha-3 code":" SLE",
+    "Numeric code":694
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  103.8, 1.3667 ]
+    },
+    "properties": {
+    "Country":"Singapore",
+    "Alpha-2 code":" SG",
+    "Alpha-3 code":" SGP",
+    "Numeric code":702
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  19.5, 48.6667 ]
+    },
+    "properties": {
+    "Country":"Slovakia",
+    "Alpha-2 code":" SK",
+    "Alpha-3 code":" SVK",
+    "Numeric code":703
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  15, 46 ]
+    },
+    "properties": {
+    "Country":"Slovenia",
+    "Alpha-2 code":" SI",
+    "Alpha-3 code":" SVN",
+    "Numeric code":705
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  159, -8 ]
+    },
+    "properties": {
+    "Country":"Solomon Islands",
+    "Alpha-2 code":" SB",
+    "Alpha-3 code":" SLB",
+    "Numeric code":90
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  49, 10 ]
+    },
+    "properties": {
+    "Country":"Somalia",
+    "Alpha-2 code":" SO",
+    "Alpha-3 code":" SOM",
+    "Numeric code":706
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  24, -29 ]
+    },
+    "properties": {
+    "Country":"South Africa",
+    "Alpha-2 code":" ZA",
+    "Alpha-3 code":" ZAF",
+    "Numeric code":710
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -37, -54.5 ]
+    },
+    "properties": {
+    "Country":"South Georgia and the South Sandwich Islands",
+    "Alpha-2 code":" GS",
+    "Alpha-3 code":" SGS",
+    "Numeric code":239
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -4, 40 ]
+    },
+    "properties": {
+    "Country":"Spain",
+    "Alpha-2 code":" ES",
+    "Alpha-3 code":" ESP",
+    "Numeric code":724
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  81, 7 ]
+    },
+    "properties": {
+    "Country":"Sri Lanka",
+    "Alpha-2 code":" LK",
+    "Alpha-3 code":" LKA",
+    "Numeric code":144
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  30, 15 ]
+    },
+    "properties": {
+    "Country":"Sudan",
+    "Alpha-2 code":" SD",
+    "Alpha-3 code":" SDN",
+    "Numeric code":736
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -56, 4 ]
+    },
+    "properties": {
+    "Country":"Suriname",
+    "Alpha-2 code":" SR",
+    "Alpha-3 code":" SUR",
+    "Numeric code":740
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  20, 78 ]
+    },
+    "properties": {
+    "Country":"Svalbard and Jan Mayen",
+    "Alpha-2 code":" SJ",
+    "Alpha-3 code":" SJM",
+    "Numeric code":744
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  31.5, -26.5 ]
+    },
+    "properties": {
+    "Country":"Swaziland",
+    "Alpha-2 code":" SZ",
+    "Alpha-3 code":" SWZ",
+    "Numeric code":748
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  15, 62 ]
+    },
+    "properties": {
+    "Country":"Sweden",
+    "Alpha-2 code":" SE",
+    "Alpha-3 code":" SWE",
+    "Numeric code":752
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  8, 47 ]
+    },
+    "properties": {
+    "Country":"Switzerland",
+    "Alpha-2 code":" CH",
+    "Alpha-3 code":" CHE",
+    "Numeric code":756
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  38, 35 ]
+    },
+    "properties": {
+    "Country":"Syrian Arab Republic",
+    "Alpha-2 code":" SY",
+    "Alpha-3 code":" SYR",
+    "Numeric code":760
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  121, 23.5 ]
+    },
+    "properties": {
+    "Country":"Taiwan",
+    "Alpha-2 code":" TW",
+    "Alpha-3 code":" TWN",
+    "Numeric code":158
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  71, 39 ]
+    },
+    "properties": {
+    "Country":"Tajikistan",
+    "Alpha-2 code":" TJ",
+    "Alpha-3 code":" TJK",
+    "Numeric code":762
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  35, -6 ]
+    },
+    "properties": {
+    "Country":"Tanzania",
+    "Alpha-2 code":" TZ",
+    "Alpha-3 code":" TZA",
+    "Numeric code":834
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  100, 15 ]
+    },
+    "properties": {
+    "Country":"Thailand",
+    "Alpha-2 code":" TH",
+    "Alpha-3 code":" THA",
+    "Numeric code":764
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  125.5167, -8.55 ]
+    },
+    "properties": {
+    "Country":"Timor-Leste",
+    "Alpha-2 code":" TL",
+    "Alpha-3 code":" TLS",
+    "Numeric code":626
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  1.1667, 8 ]
+    },
+    "properties": {
+    "Country":"Togo",
+    "Alpha-2 code":" TG",
+    "Alpha-3 code":" TGO",
+    "Numeric code":768
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -172, -9 ]
+    },
+    "properties": {
+    "Country":"Tokelau",
+    "Alpha-2 code":" TK",
+    "Alpha-3 code":" TKL",
+    "Numeric code":772
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -175, -20 ]
+    },
+    "properties": {
+    "Country":"Tonga",
+    "Alpha-2 code":" TO",
+    "Alpha-3 code":" TON",
+    "Numeric code":776
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -61, 11 ]
+    },
+    "properties": {
+    "Country":"Trinidad and Tobago",
+    "Alpha-2 code":" TT",
+    "Alpha-3 code":" TTO",
+    "Numeric code":780
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -61, 11 ]
+    },
+    "properties": {
+    "Country":"Trinidad & Tobago",
+    "Alpha-2 code":" TT",
+    "Alpha-3 code":" TTO",
+    "Numeric code":780
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  9, 34 ]
+    },
+    "properties": {
+    "Country":"Tunisia",
+    "Alpha-2 code":" TN",
+    "Alpha-3 code":" TUN",
+    "Numeric code":788
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  35, 39 ]
+    },
+    "properties": {
+    "Country":"Turkey",
+    "Alpha-2 code":" TR",
+    "Alpha-3 code":" TUR",
+    "Numeric code":792
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  60, 40 ]
+    },
+    "properties": {
+    "Country":"Turkmenistan",
+    "Alpha-2 code":" TM",
+    "Alpha-3 code":" TKM",
+    "Numeric code":795
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -71.5833, 21.75 ]
+    },
+    "properties": {
+    "Country":"Turks and Caicos Islands",
+    "Alpha-2 code":" TC",
+    "Alpha-3 code":" TCA",
+    "Numeric code":796
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  178, -8 ]
+    },
+    "properties": {
+    "Country":"Tuvalu",
+    "Alpha-2 code":" TV",
+    "Alpha-3 code":" TUV",
+    "Numeric code":798
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  32, 1 ]
+    },
+    "properties": {
+    "Country":"Uganda",
+    "Alpha-2 code":" UG",
+    "Alpha-3 code":" UGA",
+    "Numeric code":800
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  32, 49 ]
+    },
+    "properties": {
+    "Country":"Ukraine",
+    "Alpha-2 code":" UA",
+    "Alpha-3 code":" UKR",
+    "Numeric code":804
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  54, 24 ]
+    },
+    "properties": {
+    "Country":"United Arab Emirates",
+    "Alpha-2 code":" AE",
+    "Alpha-3 code":" ARE",
+    "Numeric code":784
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -2, 54 ]
+    },
+    "properties": {
+    "Country":"United Kingdom",
+    "Alpha-2 code":" GB",
+    "Alpha-3 code":" GBR",
+    "Numeric code":826
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -97, 38 ]
+    },
+    "properties": {
+    "Country":"United States",
+    "Alpha-2 code":" US",
+    "Alpha-3 code":" USA",
+    "Numeric code":840
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  166.6, 19.2833 ]
+    },
+    "properties": {
+    "Country":"United States Minor Outlying Islands",
+    "Alpha-2 code":" UM",
+    "Alpha-3 code":" UMI",
+    "Numeric code":581
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -56, -33 ]
+    },
+    "properties": {
+    "Country":"Uruguay",
+    "Alpha-2 code":" UY",
+    "Alpha-3 code":" URY",
+    "Numeric code":858
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  64, 41 ]
+    },
+    "properties": {
+    "Country":"Uzbekistan",
+    "Alpha-2 code":" UZ",
+    "Alpha-3 code":" UZB",
+    "Numeric code":860
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  167, -16 ]
+    },
+    "properties": {
+    "Country":"Vanuatu",
+    "Alpha-2 code":" VU",
+    "Alpha-3 code":" VUT",
+    "Numeric code":548
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -66, 8 ]
+    },
+    "properties": {
+    "Country":"Venezuela",
+    "Alpha-2 code":" VE",
+    "Alpha-3 code":" VEN",
+    "Numeric code":862
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  106, 16 ]
+    },
+    "properties": {
+    "Country":"Viet Nam",
+    "Alpha-2 code":" VN",
+    "Alpha-3 code":" VNM",
+    "Numeric code":704
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  106, 16 ]
+    },
+    "properties": {
+    "Country":"Vietnam",
+    "Alpha-2 code":" VN",
+    "Alpha-3 code":" VNM",
+    "Numeric code":704
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -64.5, 18.5 ]
+    },
+    "properties": {
+    "Country":"British Virgin Islands",
+    "Alpha-2 code":" VG",
+    "Alpha-3 code":" VGB",
+    "Numeric code":92
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -64.8333, 18.3333 ]
+    },
+    "properties": {
+    "Country":"U.S Virgin Islands",
+    "Alpha-2 code":" VI",
+    "Alpha-3 code":" VIR",
+    "Numeric code":850
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -176.2, -13.3 ]
+    },
+    "properties": {
+    "Country":"Wallis and Futuna",
+    "Alpha-2 code":" WF",
+    "Alpha-3 code":" WLF",
+    "Numeric code":876
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -13, 24.5 ]
+    },
+    "properties": {
+    "Country":"Western Sahara",
+    "Alpha-2 code":" EH",
+    "Alpha-3 code":" ESH",
+    "Numeric code":732
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  48, 15 ]
+    },
+    "properties": {
+    "Country":"Yemen",
+    "Alpha-2 code":" YE",
+    "Alpha-3 code":" YEM",
+    "Numeric code":887
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  30, -15 ]
+    },
+    "properties": {
+    "Country":"Zambia",
+    "Alpha-2 code":" ZM",
+    "Alpha-3 code":" ZMB",
+    "Numeric code":894
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  30, -20 ]
+    },
+    "properties": {
+    "Country":"Zimbabwe",
+    "Alpha-2 code":" ZW",
+    "Alpha-3 code":" ZWE",
+    "Numeric code":716
+    }
+  }
+]
+}
