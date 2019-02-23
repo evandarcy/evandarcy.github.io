@@ -2,7 +2,7 @@ To host CORS friendly data through GitHub pages
 
 How to push;
   --> git add --all
-  --> git commit -m "Added countries.geojson file"
+  --> git commit -m "Updated countries.geojson file"
   --> git push -u origin master
 
 How to access hosted data:
